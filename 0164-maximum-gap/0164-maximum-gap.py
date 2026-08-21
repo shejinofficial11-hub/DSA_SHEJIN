@@ -1,5 +1,5 @@
 class Solution:
-    def maximumGap(self, nums: List[int]) -> int:
+    def maximumGap(self, nums):
     
         max_gap=0
         nums.sort()
