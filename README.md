@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0152-maximum-product-subarray) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
