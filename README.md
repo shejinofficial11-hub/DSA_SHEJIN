@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0138-copy-list-with-random-pointer) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
