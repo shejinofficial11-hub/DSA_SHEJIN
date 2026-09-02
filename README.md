@@ -139,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
