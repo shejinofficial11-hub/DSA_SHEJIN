@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
