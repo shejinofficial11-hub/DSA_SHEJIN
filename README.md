@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
