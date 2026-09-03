@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0075-sort-colors) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -159,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shejinofficial11-hub/DSA_SHEJIN/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
